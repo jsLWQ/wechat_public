@@ -1,10 +1,4 @@
 # wechat_public
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
-公众号egg开发
-=======
->>>>>>> 33a076d4f19a98df97e6221015f48e8e34821a63
 
 公众号
 
@@ -36,9 +30,4 @@ $ npm stop
 - Use `npm run autod` to auto detect dependencies upgrade, see [autod](https://www.npmjs.com/package/autod) for more detail.
 
 
-<<<<<<< HEAD
 [egg]: https://eggjs.org
-=======
-[egg]: https://eggjs.org
->>>>>>> Stashed changes
->>>>>>> 33a076d4f19a98df97e6221015f48e8e34821a63
