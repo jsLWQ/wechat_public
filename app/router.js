@@ -9,4 +9,3 @@ module.exports = app => {
   router.post('/', controller.home.reply)
   // router.get('/wechat', controller.home.fromWechat)
 };
-

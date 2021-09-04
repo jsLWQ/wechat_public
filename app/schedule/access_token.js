@@ -24,4 +24,3 @@ class UpdateCache extends Subscription {
 }
 
 module.exports = UpdateCache;
-
